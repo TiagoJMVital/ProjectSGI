@@ -16,3 +16,7 @@ In addition, it was also required to evaluate the target audience as well as the
 - The creation of an interactive High-Fidelity Prototype;
 - The 3D web interface;
 - Usability evaluation of the implemented system;
+
+## Group Size
+
+- 2 Elements
